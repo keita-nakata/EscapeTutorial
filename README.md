@@ -1,1 +1,2 @@
-自分で書いたコードは [ここ](Assets/Scripts) に入っています。
+Unity脱出ゲームをYouTubeを参考に作成.
+スクリプトは [ここ](Assets/Scripts).
