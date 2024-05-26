@@ -1,1 +1,1 @@
-自分で書いたコードは Assets/Scripts/ に入っています。
+自分で書いたコードは [ここ](Assets/Scripts) に入っています。
